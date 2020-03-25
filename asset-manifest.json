@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/course-monsters-rolodex/static/css/main.48f5f775.chunk.css",
-    "main.js": "/course-monsters-rolodex/static/js/main.16c1065a.chunk.js",
-    "main.js.map": "/course-monsters-rolodex/static/js/main.16c1065a.chunk.js.map",
+    "main.js": "/course-monsters-rolodex/static/js/main.98412e4c.chunk.js",
+    "main.js.map": "/course-monsters-rolodex/static/js/main.98412e4c.chunk.js.map",
     "runtime-main.js": "/course-monsters-rolodex/static/js/runtime-main.d3133984.js",
     "runtime-main.js.map": "/course-monsters-rolodex/static/js/runtime-main.d3133984.js.map",
     "static/js/2.b6f2604e.chunk.js": "/course-monsters-rolodex/static/js/2.b6f2604e.chunk.js",
     "static/js/2.b6f2604e.chunk.js.map": "/course-monsters-rolodex/static/js/2.b6f2604e.chunk.js.map",
     "index.html": "/course-monsters-rolodex/index.html",
-    "precache-manifest.ebb6e0d8ecd22a1165f9698c8c8ed8d6.js": "/course-monsters-rolodex/precache-manifest.ebb6e0d8ecd22a1165f9698c8c8ed8d6.js",
+    "precache-manifest.f06adfc3d10728e8c420651df11e11e5.js": "/course-monsters-rolodex/precache-manifest.f06adfc3d10728e8c420651df11e11e5.js",
     "service-worker.js": "/course-monsters-rolodex/service-worker.js",
     "static/css/main.48f5f775.chunk.css.map": "/course-monsters-rolodex/static/css/main.48f5f775.chunk.css.map",
     "static/js/2.b6f2604e.chunk.js.LICENSE.txt": "/course-monsters-rolodex/static/js/2.b6f2604e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d3133984.js",
     "static/js/2.b6f2604e.chunk.js",
     "static/css/main.48f5f775.chunk.css",
-    "static/js/main.16c1065a.chunk.js"
+    "static/js/main.98412e4c.chunk.js"
   ]
 }
